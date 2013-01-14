@@ -1,0 +1,24 @@
+{
+  "name": "rle-morphology",
+  "version": "0.0.0",
+  "description": "Mathematical morphology operations for narrow band level sets",
+  "main": "morphology.js",
+  "dependencies": {
+    "rle-core": "~0.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/rle-morphology.git"
+  },
+  "keywords": [
+    "rle",
+    "narrowband",
+    "levelset",
+    "3d"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "48ce75d3806bbbe00aaed5490c5a1aa0fc614e1b"
+}
