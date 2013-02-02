@@ -1,12 +1,17 @@
 {
   "name": "rle-morphology",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mathematical morphology operations for narrow band level sets",
   "main": "morphology.js",
   "dependencies": {
-    "rle-core": "~0.0.1"
+    "rle-funcs": "0.0.*"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "rle-core": "0.0.*",
+    "rle-mesh": "0.0.*",
+    "jquery-browserify": "*",
+    "gl-shells": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/mikolalysenko/rle-morphology.git"
