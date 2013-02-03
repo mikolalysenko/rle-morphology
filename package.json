@@ -1,6 +1,6 @@
 {
   "name": "rle-morphology",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Mathematical morphology operations for narrow band level sets",
   "main": "morphology.js",
   "dependencies": {
