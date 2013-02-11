@@ -1,14 +1,14 @@
 {
   "name": "rle-morphology",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mathematical morphology operations for narrow band level sets",
   "main": "morphology.js",
   "dependencies": {
-    "rle-funcs": "0.0.*"
+    "rle-funcs": "~0.0"
   },
   "devDependencies": {
-    "rle-core": "0.0.*",
-    "rle-mesh": "0.0.*",
+    "rle-core": "~0.0",
+    "rle-mesh": "~0.0",
     "jquery-browserify": "*",
     "gl-shells": "*"
   },
