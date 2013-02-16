@@ -8,6 +8,12 @@ Via npm:
 
     npm install rle-morphology
     
+Demo
+====
+Here:
+
+    http://mikolalysenko.github.com/rle-morphology/example/www/index.html
+    
 API
 =====
 There are four different functions exported by this library.
