@@ -11,7 +11,7 @@ var MAX_ITER_COUNT = 3;
 
 $(document).ready(function() {
   //Create viewer
-  var viewer = require("gl-shells").makeViewer();
+  var viewer = require("gl-shells").makeViewer({camera_pos: [0, 15, 80]});
   
   //Import
   var bunny = require("bunny");
