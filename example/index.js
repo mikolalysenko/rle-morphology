@@ -17,7 +17,6 @@ $(document).ready(function() {
   var bunny = require("bunny");
   var shape = require("rle-rasterize")(bunny.cells, numeric.mul(bunny.positions, 2.5));
 
-
   var state = "dilate";
   var count = 1;
   

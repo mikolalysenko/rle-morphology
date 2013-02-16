@@ -1,6 +1,6 @@
 rle-morphology
 ==============
-[Mathematical morphology](http://en.wikipedia.org/Mathematical_Morphology) operators for narrow band level sets.  This is part of the [rle] collection of libraries.
+[Mathematical morphology](http://en.wikipedia.org/wiki/Mathematical_Morphology) operators for narrow band level sets.  This is part of the [rle](https://github.com/mikolalysenko/rle-core) collection of libraries.
 
 Installation
 ============
@@ -12,7 +12,7 @@ Demo
 ====
 Here:
 
-    http://mikolalysenko.github.com/rle-morphology/example/www/index.html
+[http://mikolalysenko.github.com/rle-morphology/example/www/index.html](http://mikolalysenko.github.com/rle-morphology/example/www/index.html)
     
 API
 =====
